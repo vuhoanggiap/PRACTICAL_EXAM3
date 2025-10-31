@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "name": "React JS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    },
+    {
+        "id": 2,
+        "name": "PHP",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
+    },
+    {
+        "id": 3,
+        "name": ".NET Core",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
+    },
+    {
+        "id": 4,
+        "name": "Spring Boot",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"
+    }
+]
